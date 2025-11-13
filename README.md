@@ -17,7 +17,7 @@ This repository contains PowerShell scripts I've written to automate and maintai
 
 This section includes a Python script that automatically updates the **addedAt** timestamp for Plex items based on labels you apply. It helps reorganize “Recently Added,” repair metadata order, or intentionally surface items without modifying any files.
 
-### 📄 Script: `update_addedAt.py`
+### 📄 Script: `ChangingRecentlyAdded.py`
 
 ### 🔍 What This Script Does
 
